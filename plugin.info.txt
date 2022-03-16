@@ -1,0 +1,7 @@
+base   hidemenus
+author Daniel Weisshaar
+email  daniwei-dev@gmx.de
+date   2022-03-16
+name   Hide Menus Plugin
+desc   If the user is not logged in, hide the page and site tools.
+url    http://dokuwiki.org/plugin:hidemenus
