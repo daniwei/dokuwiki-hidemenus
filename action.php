@@ -5,7 +5,7 @@
  * @license GPL 2 http://www.gnu.org/licenses/gpl-2.0.html
  * @author  Daniel Weisshaar <daniwei-dev@gmx.de>
  */
-class action_plugin_hidemenus_hidemenus extends \dokuwiki\Extension\ActionPlugin
+class action_plugin_hidemenus extends \dokuwiki\Extension\ActionPlugin
 {
 
     /** @inheritDoc */
