@@ -1,12 +1,12 @@
-hidepagetools plugin for DokuWiki
+hidemenus plugin for DokuWiki
 
-If the user is not logged in, hide the page tools.
+If the user is not logged in, hide the page and site tools.
 
 All documentation for this plugin can be found at
-http://dokuwiki.org/plugin:hidepagetools
+http://dokuwiki.org/plugin:hidemenus
 
 If you install this plugin manually, make sure it is installed in
-lib/plugins/hidepagetools/ - if the folder is called different it
+lib/plugins/hidemenus/ - if the folder is called different it
 will not work!
 
 Please refer to http://www.dokuwiki.org/extensions for additional info
